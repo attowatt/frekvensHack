@@ -128,7 +128,7 @@ Now push everything into the outer case. Then lift the inner frame again and pla
 
 ## Firmware
 
-The code is using [frumperino](https://github.com/frumperino)'s great [Arduino library](https://github.com/frumperino/FrekvensPanel) for the Frekvens LED cube and based on the corresponding examples.
+The Teensy code is using [frumperino](https://github.com/frumperino)'s great [Arduino library](https://github.com/frumperino/FrekvensPanel) for the Frekvens LED cube and based on the corresponding examples. See the library for more info.
 
 
 ## Sources
