@@ -81,6 +81,8 @@ I've added a CV input to the Teensy, connected to A9.
 
 ![](pictures/022.jpg)
 
+![](hardware/frekvensHack_schematic.png)
+
 
 ## Make a cable hole
 
