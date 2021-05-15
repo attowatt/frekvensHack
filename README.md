@@ -5,6 +5,8 @@
 [Make a cable hole](#make-a-cable-hole)  
 [Reassemble](#reassemble)  
 
+
+
 ## Open the case
 
 Open the four screws on the back.
