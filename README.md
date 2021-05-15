@@ -1,9 +1,5 @@
 # frekvensHack
 
-
-
-# Build Guide
-
 ## Open the case
 
 Open the four screws on the back.
