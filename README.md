@@ -39,7 +39,7 @@ There are two horizontal bars sitting under the frame, each holding four more sr
 
 ![](pictures/015.jpg)
 
-The main board has a green PCB soldered to it. Unsolder the green PCB.
+Remove the green PCB from the mainboard.
 
 ![](pictures/018.jpg)
 
