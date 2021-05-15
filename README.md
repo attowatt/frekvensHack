@@ -107,7 +107,7 @@ Note the orientation of each part:
 ![](pictures/030.jpg)
 ![](pictures/031.jpg)
 
-Now push everything into the outer case. Then lift the inner frame again and place two screw nuts inside on the left and right side of each horizontal bar. Once in place, push everything back into the frame. Then add 6 screw nuts and corner spacers in the three remaining corners of the inner frame. Finally, place the power supply part with the back panel on top.
+Now push everything into the outer case. Then lift the inner frame again and place two screw nuts inside on the left and right side of each horizontal bar. Once in place, push everything back into the frame. Then add the 8 screw nuts and corner spacers into the corners of the inner frame. Finally, place the power supply part with the back panel on top. Screw down.
 
 ![](pictures/033.jpg)
 ![](pictures/034.jpg)
