@@ -35,7 +35,7 @@ The inner frame is held in place by four screws. Open the screws and force the f
 ![](pictures/013.jpg)
 ![](pictures/014.jpg)
 
-There are two horizontal bars sitting under the frame, each holding four more srew nuts. Two of these nuts are visible – remove them. Then take out the bars.
+There are two horizontal bars sitting under the frame, each holding four more srew nuts. Two of these nuts are visible – remove them. Then take out the bars. Leave the other two nuts in place (as seen on the pictures).
 
 ![](pictures/015.jpg)
 
