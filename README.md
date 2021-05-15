@@ -3,7 +3,11 @@
 [Open the case](#open-the-case)  
 [Rewire](#rewire)  
 [Make a cable hole](#make-a-cable-hole)  
-[Reassemble](#reassemble)  
+[Reassemble](#reassemble) 
+
+[Firmware](#firmware) 
+
+[Sources](#sources) 
 
 
 
@@ -120,3 +124,15 @@ Now push everything into the outer case. Then lift the inner frame again and pla
 
 ![](pictures/033.jpg)
 ![](pictures/034.jpg)
+
+
+## Firmware
+
+The code is using [frumperino](https://github.com/frumperino)'s great [Arduino library](https://github.com/frumperino/FrekvensPanel) for the Frekvens LED cube and based on the corresponding examples.
+
+
+## Sources
+
+- Frumperino's FrekvensPanel library (https://github.com/frumperino/FrekvensPanel)
+- hymenochirus' Teardown on imgur (https://imgur.com/gallery/OBj0aC7)
+
