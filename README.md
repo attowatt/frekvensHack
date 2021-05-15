@@ -43,7 +43,30 @@ Remove the green PCB from the mainboard.
 
 ![](pictures/018.jpg)
 
-The red, black and white wires are for the buttons. Cut them from PCB.
+The red, black and white wires are for the buttons. Cut them from the PCB.
 
 ![](pictures/019.jpg)
+
+### Rewire
+
+There are six connections on the main board. From left to right:
+
+Pin | What it carries | Connect to Teensy
+--- | --- | ---
+Pin 1 | GND | Connect to Teensy GND
+Pin 2 | LATCH | Connect to Teensy Pin 3
+Pin 3 | CLOCK | Connect to Teensy Pin 2
+Pin 4 | DATA | Connect to Teensy Pin 1
+Pin 5 | ENABLE | Connect to Teensy Pin 0
+Pin 6 | VCC | Connect to Teensy VIN
+
+The VCC connection has 4 volts coming from the power supply, so it can be used to power the Teensy.
+
+For the buttons:
+
+Wire | What it carries | Connect to Teensy
+--- | --- | ---
+Red | Common | Connect to Teensy GND
+Black | Red button | Connect to Teensy Pin 6
+White | Yellow button | Connect to Teensy Pin 5
 
